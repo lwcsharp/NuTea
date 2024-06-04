@@ -7,7 +7,6 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/JensensWebApp.styles.css" asp-append-version="true" />
-</head>
 <body>
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
@@ -27,6 +26,11 @@
                         </li>
                     </ul>
                 </div>
+                <div class="Search-container" 
+                <form action="/action_action-php">
+                    <input type="text" placeholder=" Search..." name="search">
+                    <button type="submit" class="Search">Search</button>
+                </form>
             </div>
         </nav>
     </header>
