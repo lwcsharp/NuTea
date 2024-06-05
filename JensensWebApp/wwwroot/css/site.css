@@ -1,0 +1,107 @@
+html {
+  font-size: 16px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.navbar {
+  font-family:fantasy;
+  font-size: large;
+  z-index: 99;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding-bottom: 0;
+  padding-top: 0;
+}
+
+.navbar a {
+    padding: 20px 20px;
+    font-size: 20px;
+}
+
+.navbar a:hover {
+  background: rgba(51,111, 129, 0.801);
+  color: black;
+}
+
+.main {
+  padding: 20px;
+  margin-top: 30px;
+  height: 1500px;
+}
+
+.nav-link {
+  color: rgb(253, 255, 241) !important;
+  text-shadow: 5px;
+  letter-spacing: 0,5px;
+  font-family: 'Courier New', Courier, monospace;
+}
+.navbar .navbar-brand{
+  color: rgb(253, 255, 241) !important;
+  text-shadow: 5px ;
+  letter-spacing: 0,5px;
+  font-size: xxx-large;
+ }
+ 
+.Search{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgba(51, 111, 129, 0.801);
+  border: #ddd;
+  color: ghostwhite;
+}
+
+.Search-container{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container-fluid{
+  background-color: rgba(2, 5, 10, 0.89);
+}
+
+.form-select{
+  display: inline;
+  width: 30%;
+}
+
+.form{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  text-shadow:#0514466b ;
+  font-weight: bold;
+  z-index: 98;
+  background-color: #0514466b;
+  position: sticky;
+  display: flex;
+  justify-content: center;
+  top: 120px;
+  line-height: normal;
+  padding: 20px;
+  border-radius: 15px;
+}
+.Articles{
+  padding-top: 80px;
+}
+
+.Filter{
+  background-color: rgba(51, 111, 129, 0.801);
+  border: #ddd;
+  color: ghostwhite;
+}
+
+button, input, optgroup, select, textarea {
+  border-radius: 5px;
+}
