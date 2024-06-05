@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lilly\\source\\repos\\JensenWebApplication\\JensensWebApp\\JensensWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\Lilly\\source\\repos\\NuTea\\JensensWebApp\\JensensWebApp.csproj",
       "projectName": "JensensWebApp",
-      "projectPath": "C:\\Users\\Lilly\\source\\repos\\JensenWebApplication\\JensensWebApp\\JensensWebApp.csproj",
+      "projectPath": "C:\\Users\\Lilly\\source\\repos\\NuTea\\JensensWebApp\\JensensWebApp.csproj",
       "packagesPath": "C:\\Users\\Lilly\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lilly\\source\\repos\\JensenWebApplication\\JensensWebApp\\obj\\",
+      "outputPath": "C:\\Users\\Lilly\\source\\repos\\NuTea\\JensensWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lilly\\AppData\\Roaming\\NuGet\\NuGet.Config",
