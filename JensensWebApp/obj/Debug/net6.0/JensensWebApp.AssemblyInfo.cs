@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JensensWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b4c122d3c92dc0cae5cc6d27a4569ab222db403")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5620b79064cc2e9fd9012763038560fd67c1f9f")]
 [assembly: System.Reflection.AssemblyProductAttribute("JensensWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JensensWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
